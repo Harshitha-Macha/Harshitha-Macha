@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h3 align="center">B.Tech CSE (AIML) Student | GenAI & LLM Enthusiast | Full-Stack Developer | 2027 Graduate</h3>
 
-<!--
-**Harshitha-Macha/Harshitha-Macha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I'm currently pursuing **Artificial Intelligence and Machine Learning** at **KMIT**, Hyderabad.  
+I enjoy exploring the intersection of **AI**, **LLMs**, and **Web Development**, and I love building things that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠 **Interests:**  
+- Generative AI & Large Language Models  
+- Full-Stack Web Development  
+- Applied Machine Learning  
+- Open Source Collaboration  
+
+---
+
+🛠️ **Languages & Tools:**  
+`Python` `JavaScript` `React.js` `Node.js` `MongoDB` `MySQL`  
+`Tailwind CSS` `Firebase` `Google Colab` `Git` `VS Code`
+
+---
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/macha-harshitha)  
+📧 machaharshitha3@gmail.com
+
+---
+
+Thank you for visiting! 😊
